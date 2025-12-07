@@ -1,6 +1,10 @@
 # 💫 About Me:
 🌟 About Me — Shivaay | Developer • Bot Builder • Cyber Learner<br><br>Hi! I’m Shivaay, a Computer Science student from Delhi University and a developer who loves building real-world apps, bots, AI tools, automation scripts, and security utilities.<br>I turn ideas into fully working projects — fast, clean, and practical.<br><br>🤝 I’m Looking to Collaborate On<br><br>Bots Development<br><br>Android App Development<br><br>Backend APIs<br><br>AI-powered & security-focused tools<br><br>🤝 I’m Looking for Help With<br><br>Scalable app architecture (clean, modular patterns)<br><br>Advanced Telegram Bot development<br><br>Strengthening my Cyber Security knowledge<br><br>🌱 What I’m Currently Learning<br><br>Android Development, Web Development, Networking, AI tools, and core Cyber Security fundamentals — while continuously building production-level apps, utilities, and automation tools.
-
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhole_lover_shivaay_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Shivaay20005@gmail.com) 
