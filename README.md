@@ -1,6 +1,8 @@
+# 💫 Hi 👋, I'm Shivaay
+**A passionate Developer || Bot Builder || Cyber Learner || From Bharat**
 # 💫 About Me:
-🌟 About Me — Shivaay | Developer • Bot Builder • Cyber Learner<br><br>Hi! I’m Shivaay, a Computer Science student from Delhi University and a developer who loves building real-world apps, bots, AI tools, automation scripts, and security utilities.<br>I turn ideas into fully working projects — fast, clean, and practical.<br><br>🤝 I’m Looking to Collaborate On<br><br>Bots Development<br><br>Android App Development<br><br>Backend APIs<br><br>AI-powered & security-focused tools<br><br>🤝 I’m Looking for Help With<br><br>Scalable app architecture (clean, modular patterns)<br><br>Advanced Telegram Bot development<br><br>Strengthening my Cyber Security knowledge<br><br>🌱 What I’m Currently Learning<br><br>Android Development, Web Development, Networking, AI tools, and core Cyber Security fundamentals — while continuously building production-level apps, utilities, and automation tools.
-<!-- Snake Game Repo View -->
+🌟**Hi! I’m Shivaay, a Computer Science student from Delhi University and a developer who loves building real-world apps, bots, AI tools, automation scripts, and security utilities.<br>I turn ideas into fully working projects — fast, clean, and practical.<br><br>🤝 I’m Looking to Collaborate On<br><br>Bots Development<br><br>Android App Development<br><br>Backend APIs<br><br>AI-powered & security-focused tools<br><br>🤝 I’m Looking for Help With<br><br>Scalable app architecture (clean, modular patterns)<br><br>Advanced Telegram Bot development<br><br>Strengthening my Cyber Security knowledge<br><br>🌱 What I’m Currently Learning<br><br>Android Development, Web Development, Networking, AI tools, and core Cyber Security fundamentals — while continuously building production-level apps, utilities, and automation tools.**
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -32,5 +34,4 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Shivaay20005) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
